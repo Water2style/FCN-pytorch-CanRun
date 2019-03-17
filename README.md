@@ -1,22 +1,23 @@
 # FCN-pytorch-CanRun
-FCN-Pytorch FOR beginners
+FCN-Pytorch FOR beginners,It's a east implemention of FCN using pytorch，Just need change the datasets path.
 
-FOR ALL semantic segmentation beginners! This repo is modified from https://github.com/pochih/FCN-pytorch, thanks this lovely bro.
+FOR ALL semantic segmentation beginners! 
+This repo is modified from https://github.com/pochih/FCN-pytorch, thanks this lovely bro.
 
 Enviroment: Pytorch 1.0.0 python 3.7 cuda10
 
-It's a east implemention of FCN using pytorch，Just need change the datasets path.
-
-If you want to use Camvid dataset,in CamVid file,you should:
+USAGE:
 
 python CamVid_utlis.py
 python train.py
------if you stop the trainning half time,you can run :python train.py --resume checkpoint.tar To resuming the train
-If you want to use Cityscapes dataset,in Cityscapes file,you should:
+RESUME trainning :python train.py --resume checkpoint.tar 
+
 
 python Cityscapes_utlis.py
 python traincity.py
------if you stop the trainning half time,you can run :python traincity.py --resume checkpoint.tar To resuming the train
+RESUME trainning :python traincity.py --resume checkpoint.tar 
+
+
 If you have some problems,welcome to ISSUE or send e-mail to me. Thanks
 
 个人矫情，回顾一下小白入门的辛酸泪
