@@ -10,12 +10,12 @@ USAGE:
 
 python CamVid_utlis.py-----THEN------
 python train.py
------RESUM------RESUME trainning :python train.py --resume checkpoint.tar 
+-----RESUM trainning: python train.py --resume checkpoint.tar 
 
 
 python Cityscapes_utlis.py-----THEN------
 python traincity.py
------RESUM------E trainning :python traincity.py --resume checkpoint.tar 
+-----RESUME trainning :python traincity.py --resume checkpoint.tar 
 
 
 If you have some problems,welcome to ISSUE or send e-mail to me. Thanks
