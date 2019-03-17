@@ -8,14 +8,14 @@ Enviroment: Pytorch 1.0.0 python 3.7 cuda10
 
 USAGE:
 
-python CamVid_utlis.py
+python CamVid_utlis.py-----THEN------
 python train.py
-RESUME trainning :python train.py --resume checkpoint.tar 
+-----RESUM------RESUME trainning :python train.py --resume checkpoint.tar 
 
 
-python Cityscapes_utlis.py
+python Cityscapes_utlis.py-----THEN------
 python traincity.py
-RESUME trainning :python traincity.py --resume checkpoint.tar 
+-----RESUM------E trainning :python traincity.py --resume checkpoint.tar 
 
 
 If you have some problems,welcome to ISSUE or send e-mail to me. Thanks
