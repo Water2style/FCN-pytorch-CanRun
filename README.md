@@ -15,8 +15,8 @@ python train.py
 If you want to use Cityscapes dataset,in Cityscapes file,you should:
 
 python Cityscapes_utlis.py
-python train.py
------if you stop the trainning half time,you can run :python train.py --resume checkpoint.tar To resuming the train
+python traincity.py
+-----if you stop the trainning half time,you can run :python traincity.py --resume checkpoint.tar To resuming the train
 If you have some problems,welcome to ISSUE or send e-mail to me. Thanks
 
 个人矫情，回顾一下小白入门的辛酸泪
