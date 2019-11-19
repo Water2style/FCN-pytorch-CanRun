@@ -4,8 +4,7 @@ for EIT schools
 # FCN-pytorch-CanRun
 FCN-Pytorch FOR beginners,It's a east implemention of FCN using pytorch，Just need change the datasets path.
 
-FOR ALL semantic segmentation beginners! 
-This repo is modified from https://github.com/pochih/FCN-pytorch, thanks this lovely bro.
+
 
 Enviroment: Pytorch 1.0.0 python 3.7 cuda10
 
