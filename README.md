@@ -1,5 +1,5 @@
 BY  XIE YUNYAO
-for EIT schools
+for applying master program
 
 # FCN-pytorch-CanRun
 FCN-Pytorch FOR beginners,It's a east implemention of FCN using pytorch，Just need change the datasets path.
